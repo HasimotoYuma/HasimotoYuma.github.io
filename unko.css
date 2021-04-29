@@ -1,3 +1,6 @@
+body{
+    background:whitesmoke
+}
 
 header{
     position: fixed;
@@ -16,9 +19,17 @@ header{
     margin-right: auto;
 }
 
-.menu-item{
-    display: inline-block;
-    list-style: none;
-    padding: 10px;
+a{
+    width: auto;
+    text-decoration: none;
+    color:black;
+    
 }
 
+.menu-item{
+    font-size: xx-large;
+    display: inline-block;
+    list-style: none;
+    padding: 20px;
+    
+}
